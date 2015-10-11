@@ -9,6 +9,8 @@ author:
   - Charles Van Doren
 
 ---
+\maketitle
+\thispagestyle{empty}
 
 \frontmatter
 
@@ -131,10 +133,9 @@ Arthur L. H. Rubin, người đã thuyết phục chúng tôi đưa vào những
 quan trọng tạo ra sự khác biệt so với bản trước, và chúng tôi hi vọng những 
 thay đổi đó sẽ làm nên một cuốn sách tốt hơn và hữu ích hơn.
 
-Mortimer J. Adler
+<span style="font-variant:small-caps;">Mortimer J. Adler</span>
 
-Boca Grande
-
-26 tháng 3, 1972
+| Boca Grande
+| 26 tháng 3, 1972
 
 
