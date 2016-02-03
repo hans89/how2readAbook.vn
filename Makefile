@@ -10,7 +10,7 @@ LATEX_CLASS = book
 
 all: book
 
-book: epub html pdf
+book: pdf html
 
 clean:
 	rm -r $(BUILD)
