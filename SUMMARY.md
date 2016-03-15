@@ -17,7 +17,7 @@
     * [Công cụ hỗ trợ đọc](part2/ch12.md)
 * [Cách đọc những loại tài liệu khác nhau](part3/part3.md)
     * [Để đọc sách Thực hành](part3/ch13.md)
-    * [Để đọc Văn giả tưởng](part3/ch143.md)
+    * [Để đọc Văn giả tưởng](part3/ch14.md)
     * [Gợi ý giúp đọc Truyện, Kịch và Thơ](part3/ch15.md)
     * [Để đọc Lịch sử](part3/ch16.md)
     * [Để đọc Khoa học và Toán](part3/ch17.md)
