@@ -90,22 +90,22 @@ cần nói về nghệ thuật đọc, và tính thiết yếu phải đạt đ�
 mức độ cao hơn trong nghệ thuật này - những điều chưa được nói tới hay chưa 
 được triển khai trong bản đầu tiên. Người đọc muốn tìm nhanh những điểm mới thêm
 vào có thể so sánh bảng Mục lục của hai phiên bản. Trong số tất cả bốn phần,
-chỉ có [Phần II](#part2), phần trình bày về các luật đọc Phân tích, là còn 
+chỉ có [Phần II](part2/part2.md), phần trình bày về các luật đọc Phân tích, là còn 
 tương đồng với bản gốc, nhưng cũng đã được sắp xếp lại phần lớn. Phần giới thiệu 
 về phân biệt bốn mức độ đọc --- sơ cấp, khảo sát, phân tích và tổng hợp --- trong 
-[Phần I](#part1) là thay đổi cơ bản và mang tính quyết định về cấu trúc và 
-nội dung sách. Phần trình bày ở [Phần III](#part3) về các cách tiếp cận các loại 
+[Phần I](part1/part1.md) là thay đổi cơ bản và mang tính quyết định về cấu trúc và 
+nội dung sách. Phần trình bày ở [Phần III](part3/part3.md) về các cách tiếp cận các loại 
 tài liệu đọc khác nhau --- sách lý thuyết và thực hành, văn giả tưởng (thơ ca, 
 sử thi, tiểu thuyết, kịch), lịch sử, khoa học và toán, khoa học xã hội, và 
 triết học, cũng như các sách tham chiếu, về báo chí hiện đại, và cả quảng cáo 
---- là phần bổ sung quy mô nhất. Thảo luận về đọc Tổng hợp ở [Phần IV](#part4)
+--- là phần bổ sung quy mô nhất. Thảo luận về đọc Tổng hợp ở [Phần IV](part4/part4.md)
 là hoàn toàn mới.
 
 Trong quá trình chỉnh sửa, sắp xếp lại và viết lại, tôi đã cộng tác với Charles
 Van Doren, người nhiều năm đã là cộng sự của tôi tại Viện Nghiên cứu Triết học.
 Chúng tôi đã cùng làm việc trên các tác phẩm khác, nổi bật là bộ 12 tập 
-*Biên niên sử nước Mỹ*, xuất bản bởi Encyclopaedia Britannica, Inc. năm
-1969. Suốt 8 năm qua Charles Van Doren và tôi đã làm việc mật thiết với nhau để
+*Biên niên sử nước Mỹ*, xuất bản bởi Encyclopaedia Britannica, Inc. năm 1969. 
+Suốt 8 năm qua Charles Van Doren và tôi đã làm việc mật thiết với nhau để
 tổ chức các nhóm thảo luận về những cuốn sách vĩ đại, và điều phối các buổi seminar
 cấp cao ở Chicago, San Francisco và Aspen. Trong suốt quá trình này, chúng tôi
 đã thu thập được nhiều hiểu biết mới để đưa vào bản viết lại của cuốn sách này.
