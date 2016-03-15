@@ -1,22 +1,3 @@
----
-header-includes:
-  - \usepackage[utf8]{inputenc}
-  - \usepackage[vietnamese]{babel}
-
-title: Cách đọc sách
-
-author: 
-  - Mortimer J. Adler 
-  - Charles Van Doren
-
----
-\maketitle
-\thispagestyle{empty}
-
-\frontmatter
-
-\tableofcontents
-
 # Tựa
 
 *Cách đọc sách* được xuất bản lần đầu trong những tháng đầu năm 1940. Tôi rất
