@@ -28,7 +28,7 @@ tất cả những lợi ích mà việc đọc đem lại, cần có khả năn
 thứ khác nhau ở những tốc độ khác nhau --- tốc độ phù hợp, chứ không phải đọc
 mọi thứ với tốc độ nhanh nhất. Như Pascal đã nhận thấy 300 năm trước, "khi ta
 đọc quá nhanh hoặc quá chậm, ta chẳng hiểu được gì." Vì chuyện đọc nhanh đã
-thành mốt thịnh hành, bản mới của *Cách đọc sách* giải quyết vấn đề này và đề
+thành mốt thịnh hành, bản mới của **Cách đọc sách** giải quyết vấn đề này và đề
 nghị giải pháp đọc với tốc độ đa dạng. Mục tiêu là để đọc tốt hơn, luôn luôn
 để tốt hơn, nhưng đôi khi cần chậm hơn, đôi khi cần nhanh hơn.
 
@@ -37,7 +37,7 @@ Hầu hết công sức, tiền bạc và trí tuệ dành cho giáo dục của
 vào dạy đọc ở sáu cấp lớp đầu tiên. Sau đó rất hiếm chương trình đào tạo bài bản
 để đưa người học lên các trình độ kĩ năng cao hơn và đặc thù hơn. Chuyện đã từng
 như vậy hồi năm 1939 khi Giáo sư James Mursell của Trường Giảng viên thuộc Đại học
-Columbia viết một bài cho *Nguyệt san Atlantic* nhan đề "Sự thất bại của trường học".
+Columbia viết một bài cho **Nguyệt san Atlantic** nhan đề "Sự thất bại của trường học".
 Những gì Giáo sư từng nói khi đó bây giờ vẫn vậy, xin trích dẫn nguyên văn hai
 đoạn dưới đây.
 
@@ -65,7 +65,7 @@ Những gì Giáo sư từng nói khi đó bây giờ vẫn vậy, xin trích d�
   đoạn văn, hay các điểm nhấn và điểm phụ trong một lập luận hay thuyết luận. 
   Ở mọi khía cạnh, em vẫn là một người đọc lớp sáu dù đã ở lâu trong đại học.
 
-Nếu 30 năm trước, sự tiếp nhận rộng rãi bản đầu tiên của *Cách đọc sách*
+Nếu 30 năm trước, sự tiếp nhận rộng rãi bản đầu tiên của **Cách đọc sách**
 đã cho thấy nhu cầu thực tế của nó, thì ngày nay nhu cầu ấy còn lớn hơn nữa.
 Nhưng đáp ứng nhu cầu ấy không khải là động lực chính để viết cuốn sách này.
 Hiểu biết mới về những vấn đề học đọc; sự phân tích đầy đủ và có trật tự hơn
@@ -77,15 +77,15 @@ trong bản đầu tiên tôi viết 30 năm trước --- tất cả những n�
 cần có một thuyết luận tường tận và cần phải được viết lại hoàn toàn. Công việc
 đó giờ đã hoàn tất và được xuất bản trong cuốn sách này.
 
-Một năm sau *Cách đọc sách* được xuất bản, một bản nhại xuất hiện với tên
-*Cách đọc 2 sách*; còn Giáo sư I. A. Richards đã viết một bản luận nghiêm túc
-*Cách đọc một trang*. Tôi nêu tên hai tác phẩm này là vì những vấn đề đọc được
+Một năm sau **Cách đọc sách** được xuất bản, một bản nhại xuất hiện với tên
+**Cách đọc 2 sách**; còn Giáo sư I. A. Richards đã viết một bản luận nghiêm túc
+**Cách đọc một trang**. Tôi nêu tên hai tác phẩm này là vì những vấn đề đọc được
 nêu ra bởi tiêu đề của hai tác phẩm, cả cái đùa giỡn lẫn cái nghiêm túc, đều
 được trình bày đầy đủ trong bản viết mới này, đặc biệt là vấn đề đọc nhiều cuốn
 sách trong mối liên hệ với nhau và đọc thế nào để có thể nắm được rõ ràng 
 các quan điểm hỗ trợ hay đối lập nhau về một chủ đề chung trong các cuốn sách đó. 
 
-Trong số những lý do để viết lại *Cách đọc sách*, tôi đã nhấn mạnh những thứ
+Trong số những lý do để viết lại **Cách đọc sách**, tôi đã nhấn mạnh những thứ
 cần nói về nghệ thuật đọc, và tính thiết yếu phải đạt được các kỹ năng ở 
 mức độ cao hơn trong nghệ thuật này - những điều chưa được nói tới hay chưa 
 được triển khai trong bản đầu tiên. Người đọc muốn tìm nhanh những điểm mới thêm
@@ -104,7 +104,7 @@ là hoàn toàn mới.
 Trong quá trình chỉnh sửa, sắp xếp lại và viết lại, tôi đã cộng tác với Charles
 Van Doren, người nhiều năm đã là cộng sự của tôi tại Viện Nghiên cứu Triết học.
 Chúng tôi đã cùng làm việc trên các tác phẩm khác, nổi bật là bộ 12 tập 
-*Biên niên sử nước Mỹ*, xuất bản bởi Encyclopaedia Britannica, Inc. năm 1969. 
+**Biên niên sử nước Mỹ**, xuất bản bởi Encyclopaedia Britannica, Inc. năm 1969. 
 Suốt 8 năm qua Charles Van Doren và tôi đã làm việc mật thiết với nhau để
 tổ chức các nhóm thảo luận về những cuốn sách vĩ đại, và điều phối các buổi seminar
 cấp cao ở Chicago, San Francisco và Aspen. Trong suốt quá trình này, chúng tôi
@@ -119,7 +119,8 @@ thay đổi đó sẽ làm nên một cuốn sách tốt hơn và hữu ích hơ
 
 <span style="font-variant:small-caps;">Mortimer J. Adler</span>
 
-| Boca Grande
-| 26 tháng 3, 1972
+Boca Grande
+
+26 tháng 3, 1972
 
 
