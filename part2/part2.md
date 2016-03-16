@@ -1,4 +1,4 @@
-# Mức độ đọc thứ ba: đọc Phân tích
+# Phần 2: Mức độ đọc thứ ba: đọc Phân tích
     
 * [Phân loại sách](ch06.md)
 * [Nắm cấu trúc sách](ch07.md)

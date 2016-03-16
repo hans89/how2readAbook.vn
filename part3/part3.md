@@ -1,4 +1,4 @@
-# Cách đọc những loại tài liệu khác nhau
+# Phần 3: Cách đọc những loại tài liệu khác nhau
 
 * [Để đọc sách Thực hành](ch13.md)
 * [Để đọc Văn giả tưởng](ch14.md)
