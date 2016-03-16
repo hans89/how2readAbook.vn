@@ -21,7 +21,7 @@ This is a Vietnamese translation of "How to Read a Book" by Mortimer J. Adler
 and Charles Van Doren, 1972. This translation is intended to be used for
 non-commercial, educational purposes only.
 
-This document is available online at [Gitbook], which also provide PDF, ePub, 
+This document is available online at [Gitbook], which also provides PDF, ePub, 
 and mobi versions. 
 
 The source code is on [Github].

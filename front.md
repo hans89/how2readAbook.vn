@@ -1,7 +1,7 @@
 
 # Tựa
 
-*Cách đọc sách* được xuất bản lần đầu trong những tháng đầu năm 1940. Tôi rất
+**Cách đọc sách** được xuất bản lần đầu trong những tháng đầu năm 1940. Tôi rất
 ngạc nhiên và thật lòng thấy vui khi cuốn sách ngay lập tức trở thành sách
 bán chạy và vẫn nằm trong danh mục sách bán chạy nhất cả nước suốt hơn một năm.
 Từ năm 1940, sách đã được liên tục lưu hành rộng rãi qua nhiều bản in, cả bìa
