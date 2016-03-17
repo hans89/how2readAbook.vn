@@ -119,8 +119,7 @@ thay đổi đó sẽ làm nên một cuốn sách tốt hơn và hữu ích hơ
 
 <span style="font-variant:small-caps;">Mortimer J. Adler</span>
 
-Boca Grande
-
+Boca Grande <br/>
 26 tháng 3, 1972
 
 
