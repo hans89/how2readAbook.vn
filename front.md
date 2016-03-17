@@ -61,7 +61,7 @@ Những gì Giáo sư từng nói khi đó bây giờ vẫn vậy, xin trích d�
   đơn giản. Nhưng khi đối diện với một thuyết luận được viết chặt chẽ, một lập
   luận cẩn thận và súc tích, hay một đoạn văn cần sự phân tích phê phán, em 
   hoàn toàn lạc lối. Chẳng hạn, chúng ta đã từng thấy học sinh trung học ở mức
-  trung bình trở nên yếu kém đến lạ kỳ khi phải chỉ ra tư tưởng chỉnh của một 
+  trung bình trở nên yếu kém đến lạ kỳ khi phải chỉ ra tư tưởng chính của một 
   đoạn văn, hay các điểm nhấn và điểm phụ trong một lập luận hay thuyết luận. 
   Ở mọi khía cạnh, em vẫn là một người đọc lớp sáu dù đã ở lâu trong đại học.
 
