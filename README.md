@@ -11,7 +11,8 @@ phi thương mại. Tài liệu này được bảo vệ theo
 [Creative Commons Attribution-NonCommercial 4.0 International License][CC-NC-4.0].
 
 Tài liệu này có thể truy cập trực tuyến trên [Gitbook], kèm theo các bản dạng PDF, 
-ePub hay mobi. 
+ePub hay mobi. Phiên bản Gitbook cũng cung cấp cơ chế bình luận để người đọc
+góp ý cho người dịch trên từng đoạn văn cụ thể.
 
 Mã nguồn cung cấp tại [Github].
 
@@ -27,8 +28,6 @@ and mobi versions.
 The source code is on [Github].
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][CC-NC-4.0].
-
-
 
 
 [Gitbook]: https://www.gitbook.com/book/hans89/how2readabook-vn
