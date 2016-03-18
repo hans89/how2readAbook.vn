@@ -2,7 +2,7 @@
 
 > 400 trang sách đong đầy những chất liệu quý giá mà không ai lo âu cho tương lai
 > văn hóa Mỹ dám bỏ qua.
-> <p style="float:right">Jacques Barzun</p>
+> **Jacques Barzun**
 
 **Các đọc sách**, xuất bản lần đầu năm 1940, đã trở thành một hiện tượng hiếm có,
 một tác phẩm kinh điển *sống*. Đây là cuốn hướng dẫn tốt nhất và thành công nhất
@@ -21,4 +21,4 @@ tốc độ đọc.
 
 > Cuốn sách chỉ rõ tường tận cách thực hiện nghiêm túc việc đọc đúng cách, và
 > cũng như ý nghĩa giáo dục và niềm vui mà nó đem lại.
-> <p style="float:right">The New Yorker</p>
+> **The New Yorker**
