@@ -3,6 +3,8 @@
 * [Tựa](front.md)
     * [Bìa sau](front-1.md)
     * [Copyright Notes (Original)](front-2.md)
+    * [TS. Mortimer J. Adler](front-3.md)
+    * [TS. Charles Van Doren](front-4.md)
 * [Phần 1. Các khía cạnh của việc đọc](part1/part1.md)
     * [Tính chủ động và Nghệ thuật đọc](part1/ch01.md)
         * [Đọc chủ động](part1/ch01-1.md)
