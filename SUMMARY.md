@@ -34,7 +34,7 @@
         * [Học gì từ Tiêu đề sách](part2/ch06-2.md)
         * [Sách Thực hành và sách Lý thuyết](part2/ch06-3.md)
         * [Các loại sách Lý thuyết](part2/ch06-4.md)
-    * [Nắm cấu trúc sách](part2/ch07.md)
+    * [Nắm bố cục sách](part2/ch07.md)
         * [Chiến lược và Kế hoạch: thể Thống nhất ](part2/ch07-1.md)
         * [Làm chủ tính Đa dạng: Nghệ thuật tóm lược sách](part2/ch07-2.md)
         * [Nghệ thuật Tương hỗ của Đọc và Viết](part2/ch07-3.md)

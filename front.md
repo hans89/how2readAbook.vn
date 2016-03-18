@@ -90,15 +90,15 @@ cần nói về nghệ thuật đọc, và tính thiết yếu phải đạt đ�
 mức độ cao hơn trong nghệ thuật này - những điều chưa được nói tới hay chưa 
 được triển khai trong bản đầu tiên. Người đọc muốn tìm nhanh những điểm mới thêm
 vào có thể so sánh bảng Mục lục của hai phiên bản. Trong số tất cả bốn phần,
-chỉ có [Phần II](part2/part2.md), phần trình bày về các luật đọc Phân tích, là còn 
+chỉ có [Phần 2](part2/part2.md), phần trình bày về các luật đọc Phân tích, là còn 
 tương đồng với bản gốc, nhưng cũng đã được sắp xếp lại phần lớn. Phần giới thiệu 
 về phân biệt bốn mức độ đọc --- sơ cấp, khảo sát, phân tích và tổng hợp --- trong 
-[Phần I](part1/part1.md) là thay đổi cơ bản và mang tính quyết định về cấu trúc và 
-nội dung sách. Phần trình bày ở [Phần III](part3/part3.md) về các cách tiếp cận các loại 
+[Phần 1](part1/part1.md) là thay đổi cơ bản và mang tính quyết định về cấu trúc và 
+nội dung sách. Phần trình bày ở [Phần 3](part3/part3.md) về các cách tiếp cận các loại 
 tài liệu đọc khác nhau --- sách lý thuyết và thực hành, văn giả tưởng (thơ ca, 
 sử thi, tiểu thuyết, kịch), lịch sử, khoa học và toán, khoa học xã hội, và 
 triết học, cũng như các sách tham chiếu, về báo chí hiện đại, và cả quảng cáo 
---- là phần bổ sung quy mô nhất. Thảo luận về đọc Tổng hợp ở [Phần IV](part4/part4.md)
+--- là phần bổ sung quy mô nhất. Thảo luận về đọc Tổng hợp ở [Phần 4](part4/part4.md)
 là hoàn toàn mới.
 
 Trong quá trình chỉnh sửa, sắp xếp lại và viết lại, tôi đã cộng tác với Charles

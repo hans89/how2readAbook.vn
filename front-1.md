@@ -11,7 +11,7 @@ viết lại hoàn toàn.
 
 Bạn được hướng dẫn về các mức độ đọc khác nhau và cách để đạt được các mức độ này ---
 từ đọc sơ cấp, đến lướt có hệ thống và đọc khảo sát, đến đọc nhanh. Bạn học cách
-phân loại, phân tích cấu trúc, rút ra thông điệp của tác giả, và phê phán sách.
+phân loại, phân tích bố cục, rút ra thông điệp của tác giả, và phê phán sách.
 Bạn được dạy các kĩ thuật đọc khác nhau cho sách thực hành, văn giả tưởng, kịch,
 thơ, sử, khoa học và toán học, triết học và khoa học xã hội.
 
