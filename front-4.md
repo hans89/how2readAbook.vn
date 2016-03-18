@@ -1,4 +1,6 @@
-# Tiến sĩ CHARLES VAN DOREN (1926 - )
+# Tiến sĩ CHARLES VAN DOREN 
+
+## (1926 - )
 
 Tiến sĩ Van Doren nhận bằng Cử nhân nghệ thuật (B.A.) tại St. John's College.
 Ông nhận các bằng cao học về văn chương và toán học từ Đại học Columbia. Tiến sĩ

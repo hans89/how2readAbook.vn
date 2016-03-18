@@ -1,10 +1,12 @@
-# Tiến sĩ MORTIMER J. ADLER (28/12/1902 - 28/06/2001)
+# Tiến sĩ MORTIMER J. ADLER
+
+## (28/12/1902 - 28/06/2001)
 
 Chủ tịch và đồng sáng lập cùng Max Weismann Trung tâm nghiên cứu về Ý tưởng lớn,
 tổng biên tập tạp chí *Philosophy is Everybody's Business*, nhà sáng lập và giám đốc 
 Viện Nghiên cứu Triết học, chủ tịch ban biện tập *Encyclopædia Britannica*, tổng
 biên tập *Great Books of the Western World* và *The Syntopicon: An Index to the Great Ideas*,
-biên tập *the Great Ideas Today* (tất cả đều xuất bản bởi Encyclopædia Britannica),
+biên tập *The Great Ideas Today* (tất cả đều xuất bản bởi Encyclopædia Britannica),
 đồng sáng lập và ủy viên danh dự của Viện Aspen, nguyên giảng viên tại Đại học
 Columbia, giáo sư lão thành tại Đại học Chicago (1930-52).
 
