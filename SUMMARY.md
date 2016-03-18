@@ -1,6 +1,8 @@
 # Summary
 
 * [Tựa](front.md)
+    * [Bìa sau](front-1.md)
+    * [Copyright Notes (Original)](front-2.md)
 * [Phần 1. Các khía cạnh của việc đọc](part1/part1.md)
     * [Tính chủ động và Nghệ thuật đọc](part1/ch01.md)
         * [Đọc chủ động](part1/ch01-1.md)
