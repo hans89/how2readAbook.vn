@@ -6,12 +6,12 @@ ngạc nhiên và thật lòng thấy vui khi cuốn sách ngay lập tức tr�
 bán chạy và vẫn nằm trong danh mục sách bán chạy nhất cả nước suốt hơn một năm.
 Từ năm 1940, sách đã được liên tục lưu hành rộng rãi qua nhiều bản in, cả bìa
 cứng lẫn bìa mềm, và đã được dịch ra tiếng Pháp, Thụy Điển, Đức, Tây Ban Nha và
-Ý. Vậy tại sao giờ đây tôi lại muốn điều chỉnh và viết lại cho thế hệ người đọc
-mới?
+Ý. Vậy tại sao giờ đây tôi lại muốn điều chỉnh và viết lại cuốn sách này cho
+thế hệ độc giả mới?
 
 Lý do nằm ở những thay đổi đã xảy ra suốt 30 năm qua, trong cả xã hội của 
-chúng ta và ngay trong bản thân chủ đề đọc sách. Ngày càng nhiều người
-trẻ học xong trung học tiếp tục học lên và hoàn thành 4 năm đại học; ngày càng
+chúng ta và ngay trong bản thân chủ đề đọc sách[^1]. Ngày càng nhiều thanh niên
+tốt nghiệp trung học, tiếp tục học lên và hoàn thành 4 năm đại học; ngày càng
 nhiều bộ phận dân chúng được giáo dục tốt hơn, dù bị kìm hãm hay được thúc đẩy bởi
 sự phổ biến của radio và truyền hình. Đã có chuyển biến từ nhu cầu đọc sách truyện
 giả tưởng sang sách phi giả tưởng. Các nhà giáo dục trong nước thừa nhận rằng
@@ -123,3 +123,5 @@ Boca Grande <br/>
 26 tháng 3, 1972
 
 
+---
+[^1]: (Người dịch) Tác giả đang phát biểu trong bối cảnh nước Mỹ đầu thập kỷ 1970.
