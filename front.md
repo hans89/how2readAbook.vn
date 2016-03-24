@@ -17,7 +17,7 @@ sự phổ biến của radio và truyền hình. Đã có chuyển biến từ 
 giả tưởng sang sách phi giả tưởng. Các nhà giáo dục trong nước thừa nhận rằng
 việc dạy người trẻ đọc, theo nghĩa sơ cấp nhất của từ này, là một vấn đề giáo dục
 vô cùng trọng yếu. Bộ trưởng bộ Sức khỏe, Giáo dục và Phúc lợi gần đây coi 
-thập kỷ 70 là Thập kỉ Đọc, đã dành riêng các nguồn vốn liên bang hỗ trợ các
+thập niên 70 là Thập niên Đọc, đã dành riêng các nguồn vốn liên bang hỗ trợ các
 nỗ lực đa dạng để nâng cao năng lực trong kĩ năng cơ bản này. Nhiều nỗ lực
 đã đạt được thành công ở mức độ truyền đạt nghệ thuật đọc tới trẻ em. Thêm nữa,
 nhiều người lớn đã bị cuốn vào những lời hứa bởi các khóa dạy đọc nhanh - những
@@ -42,17 +42,17 @@ Những gì Giáo sư từng nói khi đó bây giờ vẫn vậy, xin trích d�
 đoạn dưới đây.
 
   > Học sinh ở trường có học được cách đọc tiếng mẹ đẻ hiệu quả không?
-  Có và không. Cho đến lớp năm và lớp sáu, môn đọc về tổng thể được dạy hiệu
+  Có và không. Cho đến lớp năm và lớp sáu, môn đọc nhìn chung được dạy hiệu
   quả và được học tốt. Chúng ta nhận thấy sự tiến bộ chung ổn định đến mức đó,
   nhưng sau đó thì đường cong đồ thị đi ngang thẳng tắp. Đó không phải là vì một
   học sinh đã đạt tới giới hạn tự nhiên về trình độ khi học đến lớp sáu, bởi
   người ta đã chứng minh đi chứng minh lại nhiều lần rằng, với sự đào tạo
-  đặc biệt thì những học sinh lớn hơn, và kể cả người trưởng thành, vẫn có thể
-  đạt được những tiến bộ đáng kể. Điều đó cũng không có nghĩa là hầu khắp
-  các học sinh lớp sáu đã đọc thông thạo đủ để cho bất kì công việc thực tế nào.
-  Nhiều học sinh đạt kết quả tệ ở trung học chỉ vì yếu kém không hiểu được nội
-  dung của tài liệu. Các em có thể tiến bộ; cần phải tiến bộ; nhưng lại không
-  tiến bộ.
+  đặc biệt thì những học sinh lớp trên, kể cả người trưởng thành, vẫn có thể
+  đạt được những tiến bộ đáng kể. Điều đó cũng không có nghĩa hầu khắp các 
+  học sinh lớp sáu đã đọc thông thạo các kỹ năng đọc để áp dụng thành công trong 
+  thực tế. Nhiều học sinh đạt kết quả tệ ở trung học chỉ vì yếu kém không nắm bắt
+  được nội dung trên những trang giấy. Các em có thể tiến bộ, cần phải tiến bộ, 
+  nhưng đã không tiến bộ.
 
   > Một học sinh tốt nghiệp trung học mức trung bình cũng đã đọc rất nhiều,
   và khi vào đại học em sẽ còn đọc nhiều hơn; nhưng khả năng cao là em sẽ
@@ -124,4 +124,4 @@ Boca Grande <br/>
 
 
 ---
-[^1]: (Người dịch) Tác giả đang phát biểu trong bối cảnh nước Mỹ đầu thập kỷ 1970.
+[^1]: (Người dịch) Tác giả đang phát biểu trong bối cảnh nước Mỹ đầu thập niên 1970.

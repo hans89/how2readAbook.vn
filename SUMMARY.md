@@ -129,4 +129,4 @@
         * [Cuộc đời và sự Phát triển của Trí tuệ](part4/ch21-3.md)
 * [Phụ lục](back.md)
     * [Sách nên đọc](back-1.md)
-    * [Bài tập và bài kiểm cho 4 mức độ đọc](back-2.md)
+    * [Bài tập và bài kiểm tra cho 4 mức độ đọc](back-2.md)
