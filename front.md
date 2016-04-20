@@ -13,7 +13,7 @@ Lý do nằm ở những thay đổi đã xảy ra suốt 30 năm qua, trong c�
 chúng ta và ngay trong bản thân chủ đề đọc sách[^1]. Ngày càng nhiều thanh niên
 tốt nghiệp trung học, tiếp tục học lên và hoàn thành 4 năm đại học; ngày càng
 nhiều bộ phận dân chúng được giáo dục tốt hơn, dù bị kìm hãm hay được thúc đẩy bởi
-sự phổ biến của radio và truyền hình. Đã có chuyển biến từ nhu cầu đọc sách truyện
+sự phổ biến của phát thanh và truyền hình. Đã có chuyển biến từ nhu cầu đọc sách truyện
 giả tưởng sang sách phi giả tưởng. Các nhà giáo dục trong nước thừa nhận rằng
 việc dạy người trẻ đọc, theo nghĩa sơ cấp nhất của từ này, là một vấn đề giáo dục
 vô cùng trọng yếu. Bộ trưởng bộ Sức khỏe, Giáo dục và Phúc lợi gần đây coi 
